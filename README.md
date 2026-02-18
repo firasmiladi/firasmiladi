@@ -50,12 +50,6 @@ I also maintain other projects and experiments across AI, automation, and web te
 
 ---
 
-## 📊 Activity
-
-![Firas's GitHub stats](https://github-readme-stats.vercel.app/api?username=firasmiladi&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Contact
 
 - GitHub: [github.com/firasmiladi](https://github.com/firasmiladi)  
