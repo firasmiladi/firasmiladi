@@ -18,7 +18,6 @@ I help companies design, assess, and harden secure infrastructures by combining 
 
 ## 🎓 Certifications & Education
 
-- Pursuing **CISSP** (Certified Information Systems Security Professional)
 - Pursuing **CCSP** (Certified Cloud Security Professional)
 - Background in **computer science, cybersecurity, and cloud infrastructure engineering**
 
